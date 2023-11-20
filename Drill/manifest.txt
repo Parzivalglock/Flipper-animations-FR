@@ -1,0 +1,51 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Menace_coffre
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Menace_deux
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Menace_halloween
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Ziak_couteau
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Ziak_doigt
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Ziak_fume
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
+
+Name: Ziak_gorge
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 3
+Weight: 8
